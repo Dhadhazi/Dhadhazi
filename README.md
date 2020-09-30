@@ -1,16 +1,17 @@
-### Hi there 👋
+## Daniel Hadhazi
 
-<!--
-**Dhadhazi/Dhadhazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+When I was starting web development I focused to get strong fundamentals of HTML, CSS, Javascript. For my projects, I like to use React TypeScript with GraphQL, and trying out new frameworks such as NextJS. My greatest assets are communication, organization, and the ability to learn quickly. Currently studying for my next AWS Certificate, while also deepening my knowledge about Web Accessibility, and Serverless Functions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Places 💌
+* [LinkedIn](https://www.linkedin.com/in/dhadhazi/)
+* [Email](mailto:dhadhazi@gmail.com)
+
+---
+
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Dhadhazi)
+
+---
